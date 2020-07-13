@@ -1,5 +1,7 @@
 # Wraith the Trickster
 
+I'll go with heaven's advantage and fool's wisdom.
+
 ## Concepts
 
 - [I am the evil.](https://wraith13.github.io/writing/?etc%2Fi.am.the.evil.md)
